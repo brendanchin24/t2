@@ -2,8 +2,8 @@
 //<!--========== PHP CONNECTION TO DATABASE ==========-->
     $host = "database-2.cfsakam6sdjw.us-east-1.rds.amazonaws.com";
     $username = "admin";
-    // $pass = "12345abc";
-    $pass = "";
+    // $pass = "";
+    $pass = "12345abc";
 
     $dbname = "cakeshop";
     //create connection
