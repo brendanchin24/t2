@@ -1,6 +1,6 @@
 <?php
 //<!--========== PHP CONNECTION TO DATABASE ==========-->
-    $host = "database-2.cfsakam6sdjw.us-east-1.rds.amazonaws.com";
+    $host = "asg.cfsakam6sdjw.us-east-1.rds.amazonaws.com";
     $username = "admin";
     // $pass = "";
     $pass = "12345abc";
