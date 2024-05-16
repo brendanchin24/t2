@@ -1,7 +1,7 @@
 <?php
 //<!--========== PHP CONNECTION TO DATABASE ==========-->
     $host = "localhost";
-    $username = "root";
+    $username = "admin";
     // $pass = "malako123";
     $pass = "";
 
